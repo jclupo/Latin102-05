@@ -25,11 +25,11 @@ For each of the following verbs,identify the tense, voice, mood, person, and num
 if the form is singular, convert to plural; if the form is plural, convert to singular
 
 1. petivisset
-      -
-      -
+      - 3rd person, sigular, pluperfect, active, subjunctive
+      - petivissent
 1. necauit
-      -
-      -
+      - 3rd person, singular, perfect, active, indicative 
+      - necauerunt
 1. necari
       -  present, passive, infinitive
 1. rogaretur
@@ -39,8 +39,8 @@ if the form is singular, convert to plural; if the form is plural, convert to si
       - 3rd person, singular, perfect, active, indicative
       - coeperunt
 1. interfecisset
-      -
-      -
+      - 3rd person, pluperfect, active, subjunctive
+      - interfecissent
 1. misit
       - 3rd person, singular, perfect, active, indicative
       - miserunt
