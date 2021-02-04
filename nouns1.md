@@ -6,6 +6,7 @@ Nouns:
     - apro
         - masculine, dative, singular 
         - masculine, ablative, singular 
+     
     -aprum
         - masculine, accusative, singular 
 1. canis, canis m. or f.- dog
