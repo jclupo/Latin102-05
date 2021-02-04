@@ -3,24 +3,25 @@ Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
 1. filiam--Feminine, Accusative, singular
-1. in coniugium
-1. animo
-1. uirgine
-1. parentes
-1. ad uxorem
+1. in coniugium--
+- Neuter, Accusative, singular-- in the marriage
+1. animo--Masculine, Dative, singular--Masculine, Ablative, singular
+1. uirgine--Feminine, Ablative, singular
+1. parentes--Masculine, Nominative, plural-- Masculine, Accusative, plural
+1. ad uxorem--Faminine, Accusative, singular-- towards the wife
 
 Part 2: recognizing verbs
 
 For each of the following verbs,identify the tense, voice, mood, person, and number.
 if the form is singular, convert to plural; if the form is plural, convert to singular
 
-1. petivisset
-1. necauit
-1. necari
-1. rogaretur
-1. coepit
-1. interfecisset
-1. misit
+1. petivisset--
+1. necauit--
+1. necari--
+1. rogaretur--
+1. coepit--
+1. interfecisset--
+1. misit--
 
 Part 3: Latin composition
 
