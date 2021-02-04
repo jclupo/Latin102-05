@@ -9,5 +9,25 @@ Nouns:
     - aprum
         - masculine, accusative, singular 
 1. canis, canis m. or f.- dog
+cane
+canem
+canes
+canibus
+canis
 1. equus, equi m.- horse
+equi
+equis
+equo
+equorum
+equos
+equum
+equus
 1. draco, draconis m.- serpent
+draco
+dracone
+draconem
+dracones
+draconibus
+draconis
+draconum
+
