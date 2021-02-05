@@ -33,6 +33,8 @@ Nouns:
         - masculine, singular, ablative 
     - equorum
         - masculine, plural, genitive
+        
+        Noun-adjective agreement
     - equos
         - masculine, plural, accusative 
     - equum
@@ -56,3 +58,10 @@ Nouns:
         - masculine, singular, genitive
     - draconum
         - masculine, pluarl, genitive
+
+Noun-adjective agreement
+
+aper, apri m.- wild boar
+
+
+
