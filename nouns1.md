@@ -62,6 +62,12 @@ Nouns:
 Noun-adjective agreement
 
 aper, apri m.- wild boar
-
+omnis, omnis: each (sg.), all (pl.)
+    - apro
+        - omni apro
+        - omni apro
+    - aprum
+        - omnem aprum
+ 
 
 
