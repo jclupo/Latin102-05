@@ -7,13 +7,20 @@ Nouns:
         - masculine, dative, singular 
         - masculine, ablative, singular
     - aprum
-        - masculine, accusative, singular 
+        - masculine, accusative, singular
 1. canis, canis m. or f.- dog
-cane
-canem
-canes
-canibus
-canis
+    - cane
+        - masculine, singular, ablative
+    - canem
+        - masculine, singular, accusative  
+    - canes
+        - masculine, plural, accusative
+    - canibus
+        - masculine, plural, dative
+        - masculine, plural, ablative
+    - canis
+        - masculine, singular, nominative
+        - masculine, singular, genitive 
 1. equus, equi m.- horse
 equi
 equis
