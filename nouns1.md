@@ -22,19 +22,37 @@ Nouns:
         - masculine, singular, nominative
         - masculine, singular, genitive 
 1. equus, equi m.- horse
-equi
-equis
-equo
-equorum
-equos
-equum
-equus
+    - equi
+        - masculine, singular, genitive
+        - masculine, plural, nominative 
+    - equis
+        - masculine, plural, dative
+        - masculine, plural, ablative
+    - equo
+        - masculine, singular, dative
+        - masculine, singular, ablative 
+    - equorum
+        - masculine, plural, genitive
+    - equos
+        - masculine, plural, accusative 
+    - equum
+        - masculine, singular, accusative
+    - equus
+        - masculine, singular, nominative
 1. draco, draconis m.- serpent
-draco
-dracone
-draconem
-dracones
-draconibus
-draconis
-draconum
-
+    - draco
+        - masculine, singular, nominative
+    - dracone
+        - masculine, singular, ablative
+    - draconem
+        - masculine, singular, accusative
+    - dracones
+        - masculine, pluarl, nominative 
+        - masculine, pluarl, accusative
+    - draconibus
+        - masculine, pluarl, dative
+        - masculine, pluarl, ablative
+    - draconis
+        - masculine, singular, genitive
+    - draconum
+        - masculine, pluarl, genitive
