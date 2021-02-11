@@ -32,10 +32,12 @@ B. Grammatical questions
     - 3rd person, singular, pluperfect, subjunctive, active
     -
 1. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
-    - 
-    -
+    - 3rd person, singular, perfect, indicative, passive
+    - polliceor, polliceris, polliceri, pollicitus sum 
 1. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
-
+    -
+    -
+    
 C. Translation
 
 Please translate the passgae into idiomatic English.
