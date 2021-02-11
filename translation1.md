@@ -6,6 +6,7 @@ Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram d
 
 Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et centaurum interfecit, Deianiram abduxit.
 
+
 A. Grammatical analysis
 
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
@@ -13,9 +14,11 @@ Place each clause on a separate line, indented to show its level of subordinatio
 1. Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram deuirginasset, volebat eam uxorem ducere.
 1. cum Hercules abesset, centaurus Eurytion petit Deianiram uxorem.
 1. 
-  quia pater eius centaurum timebat,
-  > *pollicitus est* 
-  >> se *daturum*
+    quia pater eius centaurum timebat,
+     > *pollicitus est* 
+      >> se *daturum*
+1. Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et centaurum interfecit, Deianiram abduxit.
+
 
 B. Grammatical questions
 
@@ -36,7 +39,7 @@ B. Grammatical questions
     - polliceor, polliceris, polliceri, pollicitus sum 
 1. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
     - Ablative, singular form
-    - It is in this form because because time is expressed in the ablative case. 
+    - It is in this form because time is expressed in the ablative case. 
     
 C. Translation
 
