@@ -44,4 +44,4 @@ C. Translation
 
 Please translate the passgae into idiomatic English.
 
-When Hercules had come into the hospitalaity of king Dexamenus and had violated his daughter Deianira, she was wishing to lead  
+When Hercules had come into the hospitalaity of king Dexamenus and had violated his daughter Deianira, was wishing to lead her as his wife. 
