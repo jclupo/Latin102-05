@@ -11,17 +11,17 @@ Place each clause on a separate line, indented to show its level of subordinatio
 
 1. Hercules cum in hospitium ad Dexamenum regem *uenisset*
      > eiusque filiam Deianiram *deuirginasset*,
-          >> volebat eam uxorem *ducere*.
+     >> volebat eam uxorem *ducere*.
 1. cum Hercules *abesset*,
      > centaurus Eurytion *petit* Deianiram uxorem.
 1. quia pater eius centaurum timebat,
      > *pollicitus est* 
-          >> se *daturum*
+     >> se *daturum*
 1. Tempore certo, 
      > *venit* centaurus cum fratribus ad nuptias. 
 1. Hercules interuenit
      > et centaurum *interfecit*, 
-          >> Deianiram *abduxit*.
+     >> Deianiram *abduxit*.
 
 
 B. Grammatical questions
