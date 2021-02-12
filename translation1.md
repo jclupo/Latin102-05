@@ -53,3 +53,4 @@ When Hercules had come into the hospitalaity of king Dexamenus and had violated 
 When Hercules was away, the centaur, Eurytion, asks Deianira as his wife. 
 Since the father was afraid of centaur, he promised to give her. 
 At the right time, the centaur, with his brothers, come to the wedding. 
+Hercules interceded and killed the centaurs, and took deianira away. 
