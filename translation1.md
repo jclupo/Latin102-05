@@ -9,14 +9,19 @@ A. Grammatical analysis
 
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
-1. Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram deuirginasset,
-volebat eam uxorem *ducere*.
-1. cum Hercules abesset, centaurus Eurytion petit Deianiram uxorem.
+1. Hercules cum in hospitium ad Dexamenum regem *uenisset*
+     > eiusque filiam Deianiram *deuirginasset*,
+          >>volebat eam uxorem *ducere*.
+1. cum Hercules *abesset*,
+     > centaurus Eurytion *petit* Deianiram uxorem.
 1. quia pater eius centaurum timebat,
      > *pollicitus est* 
-      >> se *daturum*
-1. Tempore certo, venit centaurus cum fratribus ad nuptias. 
-1. Hercules interuenit et centaurum interfecit, Deianiram abduxit.
+          >> se *daturum*
+1. Tempore certo, 
+     > *venit* centaurus cum fratribus ad nuptias. 
+1. Hercules interuenit
+     > et centaurum *interfecit*, 
+          >>Deianiram *abduxit*.
 
 
 B. Grammatical questions
@@ -45,6 +50,6 @@ C. Translation
 Please translate the passgae into idiomatic English.
 
 When Hercules had come into the hospitalaity of king Dexamenus and had violated his daughter Deianira, was wishing to lead her as his wife.
-When Hercules was away, the centaur, Eurytion, aks Deianira as his wife. 
+When Hercules was away, the centaur, Eurytion, asks Deianira as his wife. 
 Since the father was afraid of centaur, he promised to give her. 
 At the right time, the centaur, with his brothers, come to the wedding. 
