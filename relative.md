@@ -8,10 +8,15 @@ In your github repository, create a file called relative.md. Format these Englis
 1. Hercules hurled Lichas, 
   > who had brought the poisoned garment, into the see.
 
-1. In Egypt, Hercules killed Busiris, who regularly sacrificed foreigners.
+1. In Egypt, 
+  > Hercules killed Busiris, 
+  >> who regularly sacrificed foreigners.
 
-1. He killed the Centaur Eurytion because he wanted to marry Deianira, who was his fiancée.
+1. He killed the Centaur Eurytion
+  > because he wanted to marry Deianira,
+  >> who was his fiancée.
 
-1. He killed Eurytion, whose daughter he had asked to marry.
+1. He killed Eurytion,
+  > whose daughter he had asked to marry.
 
 
