@@ -23,12 +23,12 @@ Iole is a Greek name, and Hyginus uses the Greek form of her name in the accusat
 
 Vocabulary
 
-omnis, omnis
-capio, capĕre, cepi, captus
-mitto, mittĕre, misi, missus
-nolo, nolle, nolui, -
-Oechalia, Oechaliae (f.): the city Oechalia
-pater, patris (m.)
-patior, pati, -, passus: endure, suffer; can take a noun as direct object or an indirect statement construction
-peto, petĕre, petivi or petii, petitus
-quia
+- omnis, omnis
+- capio, capĕre, cepi, captus
+- mitto, mittĕre, misi, missus
+- nolo, nolle, nolui, -
+- Oechalia, Oechaliae (f.): the city Oechalia
+- pater, patris (m.)
+- patior, pati, -, passus: endure, suffer; can take a noun as direct object or an indirect statement construction
+- peto, petĕre, petivi or petii, petitus
+- quia
