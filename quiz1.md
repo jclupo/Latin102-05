@@ -9,6 +9,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
 1. in coniugium--
       - Neuter, Accusative, singular 
       - in the marriage ❓ **Possible, but can you think of another possibility**
+      - *Revision* -in marriage
 1. animo
       - Masculine, Dative, singular
       - Masculine, Ablative, singular
@@ -37,6 +38,7 @@ if the form is singular, convert to plural; if the form is plural, convert to si
 1. rogaretur ❌
       - 3rd person, singular, perfect, passive, subjunctive 
       - rogarentur
+      -  *Revision* -3rd person, singular, imperfect, passive, subjunctive 
 1. coepit
       - 3rd person, singular, perfect, active, indicative
       - coeperunt
