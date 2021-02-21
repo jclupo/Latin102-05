@@ -61,9 +61,13 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were given �
       - interfecti Sunt	
 1. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)
       - interficiunt ❌
+      - *Revision* -interfecit
 1. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her.
       - vident ❌
+      - *Revision* -vidit
 1. Hercules led Deianira in marriage (i.e., he married her).
       - duxerunt ❌
+      - *Revision* -duxit
 1. Hercules repeatedly asked Eurytus for permission to marry Iole.
       - rogaverunt ❌
+      - *Revision* -rogavit
