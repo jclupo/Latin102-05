@@ -21,7 +21,7 @@ Translation
   > Cum Hercules pervenit Oechaliam, is Iolen in coniugium petiverit. 
   > Cum ea patrem, Eurytus, nollet, Hercules Oechaliam cepit. 
   > Hercules dixit, eam parentes interfecturus esse.
-  > Iolen passus est, eam parentes interfecisset.
+  > Iolen quia passus est, eam parentes interfecisset.
   > Cum Hercules omnis eorum interfecisset, is Iolen Deianirae misit.	 	
 
 
