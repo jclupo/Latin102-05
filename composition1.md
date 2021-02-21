@@ -17,6 +17,11 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 1. Your fourth sentence should say that Iole endured that her parents were killed.
 1. Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
+Translation 
+  > Cum Hercules pervenit Oechaliam, is Iole in coniugium petiverit. Cum ea patrem, Eurytus, nollet, Hercules Oechaliam cepit. Hercules dixit 	
+
+
+
 Notes
 
 Iole is a Greek name, and Hyginus uses the Greek form of her name in the accusative, Iolen.
