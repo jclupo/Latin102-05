@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 Part 1: recognizing nouns
 
@@ -8,7 +8,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
       - Feminine, Accusative, singular
 1. in coniugium--
       - Neuter, Accusative, singular 
-      - in the marriage ❓ **Possible, but can you think of another possibility**
+      - in the marriage
       - *Revision* -in marriage
 1. animo
       - Masculine, Dative, singular
@@ -35,10 +35,9 @@ if the form is singular, convert to plural; if the form is plural, convert to si
       - necauerunt
 1. necari
       -  present, passive, infinitive
-1. rogaretur ❌
-      - 3rd person, singular, perfect, passive, subjunctive 
+1. rogaretur
       - rogarentur
-      -  *Revision* -3rd person, singular, imperfect, passive, subjunctive 
+      -3rd person, singular, imperfect, passive, subjunctive 
 1. coepit
       - 3rd person, singular, perfect, active, indicative
       - coeperunt
@@ -59,15 +58,11 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were given �
       - interficiebantur
 1. Centaurs were killed by Hercules. (Use the perfect tense)
       - interfecti Sunt	
-1. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)
-      - interficiunt ❌
-      - *Revision* -interfecit
+1. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.   
+      -interficeret
 1. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her.
-      - vident ❌
-      - *Revision* -vidit
+      -vidit
 1. Hercules led Deianira in marriage (i.e., he married her).
-      - duxerunt ❌
-      - *Revision* -duxit
+       -duxit
 1. Hercules repeatedly asked Eurytus for permission to marry Iole.
-      - rogaverunt ❌
-      - *Revision* -rogavit
+      -rogabat
