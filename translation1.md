@@ -9,9 +9,11 @@ A. Grammatical analysis ❌ *Please revise this section as we did in class toget
 
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
-1. Hercules cum in hospitium ad Dexamenum regem *uenisset*
+Hercules 
+     > cum in hospitium ad Dexamenum regem *uenisset*
      > eiusque filiam Deianiram *deuirginasset*,
-     >> volebat eam uxorem *ducere*.
+volebat eam uxorem *ducere*.
+
 1. cum Hercules *abesset*,
      > centaurus Eurytion *petit* Deianiram uxorem.
 1. quia pater eius centaurum timebat,
