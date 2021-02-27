@@ -1,3 +1,5 @@
+**Needs revisions**
+**Very solid first draft!  We'll tidy these revisions up easily.**
 Background story
 
 (Based on chapter 35 of Hyginus)
@@ -18,11 +20,11 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 1. Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
 Translation 
-  > Cum Hercules pervenit Oechaliam, is Iolen in coniugium petiverit. 
-  > Cum ea patrem, Eurytus, nollet, Hercules Oechaliam cepit. 
-  > Hercules dixit, eam parentes interfecturus esse.
-  > Iolen quia passus est, eam parentes interfecisset.
-  > Cum Hercules omnis eorum interfecisset, is Iolen Deianirae misit.	 	
+  > Cum Hercules pervenit❌ Oechaliam, is Iolen in coniugium petiverit.❌ 
+  > Cum ea❌ patrem❌, Eurytus, nollet, Hercules Oechaliam cepit. 
+  > Hercules dixit, eam❌ parentes interfecturus❌ esse.
+  > Iolen quia❌ passus est, eam parentes interfecisset.❌
+  > Cum Hercules omnis❌ eorum interfecisset, is Iolen Deianirae❌ misit.	 	
 
 
 
