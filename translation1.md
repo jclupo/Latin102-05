@@ -15,10 +15,10 @@ Place each clause on a separate line, indented to show its level of subordinatio
      >>>volebat eam uxorem *ducere*.
 
 *Revision*:
-     Hercules 
-     cum in hospitium ad Dexamenum regem uenisset
-     eiusque filiam Deianiram deuirginasset,
-     volebat eam uxorem ducere.
+     --- Hercules 
+     --- cum in hospitium ad Dexamenum regem uenisset
+     --- eiusque filiam Deianiram deuirginasset,
+     --- volebat eam uxorem ducere.
 
 1. cum Hercules *abesset*,
      > centaurus Eurytion *petit* Deianiram uxorem.
