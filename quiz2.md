@@ -50,9 +50,28 @@ Using the verb polliceor, complete the following synopsis, and translate indicat
 - third plural pluperfect subjunctive passive
   - polliciti essent
 
-Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
+Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio but not amo, habeo, capio or duco
 
-but not amo, habeo, capio or duco
+> do, dare, dedi, datus: to give--1st Conjugation 
+- third plural present indicative passive---Dantur
+- third plural present subjunctive passive--Dentur
+- third plural imperfect indicative passive--Dabantur
+- present infinitive passive--Dari
+- third plural imperfect subjunctive passive--Darentur
+- third plural perfect indicative passive--Dati Sunt	
+- perfect active passive--Datus Esse
+- third plural pluperfect subjunctive passive--Dati Essent
+
+> pono, ponĕre, posui, positus: to place--3rd Conjugation 
+- third plural present indicative passive--Ponuntur
+- third plural present subjunctive passive--Ponantur
+- third plural imperfect indicative passive--Ponebantur
+- present infinitive passive--Poni
+- third plural imperfect subjunctive passive--Ponerentur
+- third plural perfect indicative passive--Positi Sunt	
+- perfect active passive--Positus Esse
+- third plural pluperfect subjunctive passive--Positi Essent
+
 
 English relative clauses
 
