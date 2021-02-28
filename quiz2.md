@@ -116,14 +116,20 @@ you could make the second sentence a relative clause like this:
   
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
   > Hercules, who Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
+  
   > cui
+  
   > Hercules--Masculine, singular
+  
   > dative case because it is the indirect object. 
   
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
   > Hercules, who Juno drove threw Hercules into a fit of madness, killed his own wife Megara.
+  
   > qui
+  
   > Hercules--Masculine, singular
+  
   > Nominative case because Hercules is the subject.
 
 Latin relative clauses
