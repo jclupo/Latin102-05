@@ -9,18 +9,36 @@ A. Grammatical analysis ❌ *Please revise this section as we did in class toget
 
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
-Hercules 
+1. Hercules 
      > cum in hospitium ad Dexamenum regem *uenisset*
-     > eiusque filiam Deianiram *deuirginasset*,
-volebat eam uxorem *ducere*.
+     >> eiusque filiam Deianiram *deuirginasset*,
+     >>>volebat eam uxorem *ducere*.
+
+Revision:
+     Hercules 
+     cum in hospitium ad Dexamenum regem uenisset
+     eiusque filiam Deianiram deuirginasset,
+     volebat eam uxorem ducere.
 
 1. cum Hercules *abesset*,
      > centaurus Eurytion *petit* Deianiram uxorem.
+
+Revision:
+     cum Hercules abesset,
+     centaurus Eurytion petit Deianiram uxorem.
+
+
 1. quia pater eius centaurum timebat,
      > *pollicitus est* 
      >> se *daturum*
+
+Revision:
+     quia pater eius centaurum timebat, pollicitus est se daturum.
+     
 1. Tempore certo, 
-     > *venit* centaurus cum fratribus ad nuptias. 
+     > *venit* centaurus cum fratribus ad nuptias.
+    
+ 
 1. Hercules interuenit
      > et centaurum *interfecit*, 
      >> Deianiram *abduxit*.
@@ -37,9 +55,15 @@ B. Grammatical questions
 1. Identify the form abesset, and explain why it is this tense and mood.
     - 3rd person, singular, Imperfect, subjunctive, active
     - abesset is in the imperfect subjunctive because it is expressing the possibility of doing something in the imperfect and is subjunctive to keep with the context and form of the clause. ❌
+
+*Revision*: abesset is in the imperfect subjunctive because imperfect is used to express a moment time in the past that is ongoing, such as Hercules being away. 
+
 1. Identify the form uenisset, and explain why it is this tense and mood.
     - 3rd person, singular, pluperfect, subjunctive, active
     - uenisset is in the pluperfect, subjunctive because it is talking about the past and must be in the subjunctive in order to agree with the context.  ❌
+
+*Revision*: uenisset is in the pluperfect subjunctive because it is a moment that has been completed at a definite point in the past, like Hercules coming to the kingdom.   
+
 1. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
     - 3rd person, singular, perfect, indicative, passive
     - polliceor, polliceris, polliceri, pollicitus sum 
