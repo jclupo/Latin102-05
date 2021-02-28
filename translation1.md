@@ -14,7 +14,7 @@ Place each clause on a separate line, indented to show its level of subordinatio
      >> eiusque filiam Deianiram *deuirginasset*,
      >>>volebat eam uxorem *ducere*.
 
-Revision:
+*Revision*:
      Hercules 
      cum in hospitium ad Dexamenum regem uenisset
      eiusque filiam Deianiram deuirginasset,
@@ -23,7 +23,7 @@ Revision:
 1. cum Hercules *abesset*,
      > centaurus Eurytion *petit* Deianiram uxorem.
 
-Revision:
+*Revision*:
      cum Hercules abesset,
      centaurus Eurytion petit Deianiram uxorem.
 
@@ -32,16 +32,21 @@ Revision:
      > *pollicitus est* 
      >> se *daturum*
 
-Revision:
+*Revision*:
      quia pater eius centaurum timebat, pollicitus est se daturum.
      
 1. Tempore certo, 
      > *venit* centaurus cum fratribus ad nuptias.
     
+ *Revision*:
+     Tempore certo, venit centaurus cum fratribus ad nuptias.
  
 1. Hercules interuenit
      > et centaurum *interfecit*, 
      >> Deianiram *abduxit*.
+     
+*Revision*: 
+     Hercules interuenit et centaurum interfecit, Deianiram abduxit.
 
 
 B. Grammatical questions
