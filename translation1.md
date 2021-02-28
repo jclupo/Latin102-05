@@ -61,7 +61,7 @@ B. Grammatical questions
     - 3rd person, singular, Imperfect, subjunctive, active
     - abesset is in the imperfect subjunctive because it is expressing the possibility of doing something in the imperfect and is subjunctive to keep with the context and form of the clause. ❌
 
-*Revision*: abesset is in the imperfect subjunctive because imperfect is used to express a moment time in the past that is ongoing, such as Hercules being away. 
+*Revision*: abesset is in the subjunctive because temporal clause is emphasizing the circumstance. imperfect is used to express a moment time in the past that is ongoing, such as Hercules being away. 
 
 1. Identify the form uenisset, and explain why it is this tense and mood.
     - 3rd person, singular, pluperfect, subjunctive, active
