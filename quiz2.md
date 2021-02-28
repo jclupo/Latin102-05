@@ -88,83 +88,65 @@ you could make the second sentence a relative clause like this:
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
   > The brothers, with whom Eurytion came to the wedding, were violent centaurs.
   
-  >  quibus 
-  
-  >  The borthers--Masculine, plural 
-  
-  >  Ablative case because it is the object of preposition
+  1. quibus   
+  1.  The borthers--Masculine, plural 
+  1.  Ablative case because it is the object of preposition
   
 2. Dexamenus was afraid of Eurytion. Deianira was promised in marriage to Eurytion.
   > Dexamenus was afraid of Eurytion, to whom Deianira was promised in marriage. 
   
-  > cui
-  
-  > Eurytion--Masculine, singular
-  
-  > Dative case because it is the indirect object. 
+  1. cui
+  1. Eurytion--Masculine, singular  
+  1. Dative case because it is the indirect object. 
   
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
   > Eurytion, who's brothers were centaurs, expected to marry Deianira.
   
-  > cuius
-  
-  > Eurytion--Masculine, singular
-  
-  > Genitive case becasue it shows possession. 
+  1. cuius  
+  1. Eurytion--Masculine, singular
+  1. Genitive case becasue it shows possession. 
   
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
   > Nessus, who Herculkes killed, tried to rape Deianira.
   
-  > quem
-  
-  > Nessus--Masculine, singular
-  
-  > Accusative case because it is the direct object.  
+  1. quem
+  1. Nessus--Masculine, singular  
+  1. Accusative case because it is the direct object.  
   
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
   > Nessus gave Deianira a vial of blood by which Hercules was poisoned.
   
-  > quo
-  
-  > the blood--Masculine, singular
-  
-  > Ablative case because it is the object of preposition. 
+  1. quo 
+  1. the blood--Masculine, singular
+  1. Ablative case because it is the object of preposition. 
   
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
   > In Egypt, Hercules killed the priest Busiris who regularly sacrificed foreigners.
   
-  > quem
-  
-  > Busiris--Masculine, singular
-  
-  > Accusative case because it is the direct object.
+  1. quem
+  1. Busiris--Masculine, singular
+  1. Accusative case because it is the direct object.
   
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
   > Prometheus’ heart was devoured by an eagle that Hercules shot dead with his arrows.
   
-  > quem
-  
-  > the egale--Masculine, singular 
-  
-  > Accusative case because it is the direct object.
+  1. quem
+  1. the egale--Masculine, singular 
+  1. Accusative case because it is the direct object.
   
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
   > Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
   
-  > qui
-  
-  > Lycus--Masculine, singular 
-  
-  > Nominative case because Lycus is the subject.
+  1. qui
+  1. Lycus--Masculine, singular 
+  1. Nominative case because Lycus is the subject.
   
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
   > Hercules, who Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
   
-  > cui
-  
-  > Hercules--Masculine, singular
-  
-  > dative case because it is the indirect object. 
+  1. cui
+  1. Hercules--Masculine, singular
+  1. dative case because it is the indirect object. 
   
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
   > Hercules, who Juno drove threw Hercules into a fit of madness, killed his own wife Megara.
