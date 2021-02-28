@@ -66,18 +66,20 @@ you could make the second sentence a relative clause like this:
 > Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twelve labors.
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
-  -The brothers, with whom Eurytion came to the wedding, were violent centaurs. 
+  - The brothers, with whom Eurytion came to the wedding, were violent centaurs. 
   
 3. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
-4. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
-5. Nessus tried to rape Deianira. Hercules killed Nessus.
-6. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-7. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
-8. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
-9. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
-10. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
-11. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
-12. Latin relative clauses
+  - Dexamenus was afraid of Eurytion, to whom Deanira was promised in marriage. 
+  
+5. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
+6. Nessus tried to rape Deianira. Hercules killed Nessus.
+7. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
+8. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
+9. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
+10. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
+11. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
+12. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
+13. Latin relative clauses
 
 For each sentence in the previous section:
 
