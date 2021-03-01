@@ -75,7 +75,7 @@ B. Grammatical questions
     - 3rd person, singular, pluperfect, subjunctive, active
     - uenisset is in the pluperfect, subjunctive because it is talking about the past and must be in the subjunctive in order to agree with the context.  ❌
 
-*Revision*: uenisset is in the pluperfect subjunctive because it is a moment that has been completed at a definite point in the past, like Hercules coming to the kingdom.   
+*Revision*: uenisset is in the pluperfect subjunctive because it is a moment that has been completed at a definite point in the past, like Hercules coming to the kingdom and it is subjunctive because it is emphasizing the circumstance.    
 
 1. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
     - 3rd person, singular, perfect, indicative, passive
