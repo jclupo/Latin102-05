@@ -16,18 +16,18 @@ Place each clause on a separate line, indented to show its level of subordinatio
 
 *Revision*:
 
-     - Hercules
-          - cum in hospitium ad Dexamenum regem *uenisset*
-               - eiusque filiam Deianiram *deuirginasset*,
-                    - volebat eam uxorem *ducere*.
+     >> Hercules
+          >> cum in hospitium ad Dexamenum regem *uenisset*
+          >> eiusque filiam Deianiram *deuirginasset*,
+     > volebat eam uxorem *ducere*.
 
 1. cum Hercules *abesset*,
      > centaurus Eurytion *petit* Deianiram uxorem.
 
 *Revision*:
 
-     - cum Hercules *abesset*,
-          - centaurus Eurytion *petit* Deianiram uxorem.
+          >> cum Hercules *abesset*,
+     > centaurus Eurytion *petit* Deianiram uxorem.
 
 
 1. quia pater eius centaurum timebat,
@@ -35,26 +35,24 @@ Place each clause on a separate line, indented to show its level of subordinatio
      >> se *daturum*
 
 *Revision*:
-     - quia pater eius centaurum timebat,
-          - *pollicitus est* 
-     - se *daturum*.
+          > quia pater eius centaurum timebat,
+     > *pollicitus est* 
+          > se *daturum*.
      
 1. Tempore certo, 
      > *venit* centaurus cum fratribus ad nuptias.
     
  *Revision*:
-     - Tempore certo, 
-          - *venit* centaurus cum fratribus 
-               - ad nuptias.
+     > Tempore certo, *venit* centaurus cum fratribus ad nuptias.
  
 1. Hercules interuenit
      > et centaurum *interfecit*, 
      >> Deianiram *abduxit*.
      
 *Revision*: 
-     - Hercules *interuenit* 
-          - et centaurum *interfecit*, 
-               - Deianiram *abduxit*.
+     > Hercules *interuenit* 
+     > et centaurum *interfecit*, 
+     > Deianiram *abduxit*.
 
 
 B. Grammatical questions
@@ -67,15 +65,15 @@ B. Grammatical questions
     - Accusative singular 
 1. Identify the form abesset, and explain why it is this tense and mood.
     - 3rd person, singular, Imperfect, subjunctive, active
-    - abesset is in the imperfect subjunctive because it is expressing the possibility of doing something in the imperfect and is subjunctive to keep with the context and form of the clause. ❌
+    - abesset is in the imperfect subjunctive because  it is expressing the possibility of doing something in the imperfect and is subjunctive to keep with the context and form of the clause. ❌
 
-*Revision*: abesset is in the subjunctive because temporal clause is emphasizing the circumstance. Imperfect is used to express a moment time in the past that is ongoing or at the same time as the independent clause, such as Hercules being away. 
+*Revision*: abesset is in the subjunctive because this temporal clauses emphasizes the circumstance. Imperfect is used to express a moment time in the past that is  at the same time or later, such as Hercules being away. 
 
 1. Identify the form uenisset, and explain why it is this tense and mood.
     - 3rd person, singular, pluperfect, subjunctive, active
     - uenisset is in the pluperfect, subjunctive because it is talking about the past and must be in the subjunctive in order to agree with the context.  ❌
 
-*Revision*: uenisset is in the pluperfect subjunctive because it is a moment that has been completed at a definite point in the past, like Hercules coming to the kingdom and it is subjunctive because it is emphasizing the circumstance.    
+*Revision*: uenisset is in the pluperfect subjunctive because it is the subjunctive mood because it is emphasizing the circumstance and it is a moment that has been completed at a definite point in the past earlier, like Hercules coming to the kingdom.
 
 1. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
     - 3rd person, singular, perfect, indicative, passive
@@ -88,7 +86,7 @@ C. Translation 🤔 *If a verb could be either present or perfect, how can you c
 
 Please translate the passgae into idiomatic English.
 
-When Hercules had come into the hospitality of king Dexamenus and had violated his daughter Deianira, ❓ was wishing to lead her as his wife.
+When Hercules had come into the hospitality of king Dexamenus and violated his daughter Deianira, ❓(HE) was wishing to lead her as his wife.
 When Hercules was away, the centaur, Eurytion, asks Deianira as his wife. 
 Since the father was afraid of centaur, he promised to give her. 
 At the right time, the centaur, with his brothers, come to the wedding. 
