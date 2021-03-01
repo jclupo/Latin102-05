@@ -35,6 +35,7 @@ Place each clause on a separate line, indented to show its level of subordinatio
      >> se *daturum*
 
 *Revision*:
+
           > quia pater eius centaurum timebat,
      > *pollicitus est* 
           > se *daturum*.
@@ -43,6 +44,7 @@ Place each clause on a separate line, indented to show its level of subordinatio
      > *venit* centaurus cum fratribus ad nuptias.
     
  *Revision*:
+ 
      > Tempore certo, *venit* centaurus cum fratribus ad nuptias.
  
 1. Hercules interuenit
@@ -50,6 +52,7 @@ Place each clause on a separate line, indented to show its level of subordinatio
      >> Deianiram *abduxit*.
      
 *Revision*: 
+
      > Hercules *interuenit* 
      > et centaurum *interfecit*, 
      > Deianiram *abduxit*.
