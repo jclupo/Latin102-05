@@ -15,17 +15,19 @@ Place each clause on a separate line, indented to show its level of subordinatio
      >>>volebat eam uxorem *ducere*.
 
 *Revision*:
-     --- Hercules 
-     --- cum in hospitium ad Dexamenum regem uenisset
-     --- eiusque filiam Deianiram deuirginasset,
-     --- volebat eam uxorem ducere.
+
+     - Hercules
+          - cum in hospitium ad Dexamenum regem *uenisset*
+               - eiusque filiam Deianiram *deuirginasset*,
+                    - volebat eam uxorem *ducere*.
 
 1. cum Hercules *abesset*,
      > centaurus Eurytion *petit* Deianiram uxorem.
 
 *Revision*:
-     cum Hercules abesset,
-     centaurus Eurytion petit Deianiram uxorem.
+
+     - cum Hercules *abesset*,
+          - centaurus Eurytion *petit* Deianiram uxorem.
 
 
 1. quia pater eius centaurum timebat,
@@ -33,20 +35,26 @@ Place each clause on a separate line, indented to show its level of subordinatio
      >> se *daturum*
 
 *Revision*:
-     quia pater eius centaurum timebat, pollicitus est se daturum.
+     - quia pater eius centaurum timebat,
+          - *pollicitus est* 
+     - se *daturum*.
      
 1. Tempore certo, 
      > *venit* centaurus cum fratribus ad nuptias.
     
  *Revision*:
-     Tempore certo, venit centaurus cum fratribus ad nuptias.
+     - Tempore certo, 
+          - *venit* centaurus cum fratribus 
+               - ad nuptias.
  
 1. Hercules interuenit
      > et centaurum *interfecit*, 
      >> Deianiram *abduxit*.
      
 *Revision*: 
-     Hercules interuenit et centaurum interfecit, Deianiram abduxit.
+     - Hercules *interuenit* 
+          - et centaurum *interfecit*, 
+               - Deianiram *abduxit*.
 
 
 B. Grammatical questions
@@ -61,7 +69,7 @@ B. Grammatical questions
     - 3rd person, singular, Imperfect, subjunctive, active
     - abesset is in the imperfect subjunctive because it is expressing the possibility of doing something in the imperfect and is subjunctive to keep with the context and form of the clause. ❌
 
-*Revision*: abesset is in the subjunctive because temporal clause is emphasizing the circumstance. imperfect is used to express a moment time in the past that is ongoing, such as Hercules being away. 
+*Revision*: abesset is in the subjunctive because temporal clause is emphasizing the circumstance. Imperfect is used to express a moment time in the past that is ongoing or at the same time as the independent clause, such as Hercules being away. 
 
 1. Identify the form uenisset, and explain why it is this tense and mood.
     - 3rd person, singular, pluperfect, subjunctive, active
