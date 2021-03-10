@@ -1,6 +1,4 @@
 1. Hercules Hydram Minerua monstrante interfecit.
-- Hydram 
-- Circumstance
 
 1. Procrustes erat Neptuni filius. 
     >> ad hunc hospes cum uenisset, 
