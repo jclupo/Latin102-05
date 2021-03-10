@@ -21,21 +21,26 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 
 Translation 
   > Cum Hercules pervenit❌ Oechaliam, is Iolen in coniugium petiverit.❌
+  
     - Pervenisset
     - Petivit
     - Cum Hercules pervenisset Oechaliam, is Iolen in coniugium petivit
     
   > Cum ea❌ patrem❌, Eurytus, nollet, Hercules Oechaliam cepit. 
+  
     - pater eius 
 
   > Hercules dixit, eam❌ parentes interfecturus❌ esse.
+  
     - Hercules dixit, parentes euis se interfecturum esse
    
   > Iolen quia❌ passus est, eam parentes interfecisset.❌
+  
     - parentes suos interfectos esse
   
-  > Cum Hercules omnis❌ eorum interfecisset, is Iolen Deianirae❌ misit.	 	
-    - Omnes
+  > Cum Hercules omnis❌ eorum interfecisset, is Iolen Deianirae❌ misit.	
+   	
+    - Omnes eorum 
     - Iolen ad Deianiram misit.
 
 
