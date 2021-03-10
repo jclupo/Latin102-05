@@ -20,12 +20,22 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 1. Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
 Translation 
-  > Cum Hercules pervenit❌ Oechaliam, is Iolen in coniugium petiverit.❌ 
+  > Cum Hercules pervenit❌ Oechaliam, is Iolen in coniugium petiverit.❌
+    - Pervenisset
+    - Cum Hercules pervenisset Oechaliam, is Iolen in coniugium 
+    
   > Cum ea❌ patrem❌, Eurytus, nollet, Hercules Oechaliam cepit. 
-  > Hercules dixit, eam❌ parentes interfecturus❌ esse.
-  > Iolen quia❌ passus est, eam parentes interfecisset.❌
-  > Cum Hercules omnis❌ eorum interfecisset, is Iolen Deianirae❌ misit.	 	
+    - Cum 
 
+  > Hercules dixit, eam❌ parentes interfecturus❌ esse.
+    - Hercules dixit, parentes euis se interfecturum esse
+   
+  > Iolen quia❌ passus est, eam parentes interfecisset.❌
+    - parentes suos interfectos esse
+  
+  > Cum Hercules omnis❌ eorum interfecisset, is Iolen Deianirae❌ misit.	 	
+    - Omnes
+    - Iolen ad Deianiram misit.
 
 
 Notes
