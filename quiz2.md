@@ -1,3 +1,6 @@
+**Needs minor revisions**
+**Very nice first submission!**
+
 Verb synopses
 
 Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
@@ -102,7 +105,7 @@ you could make the second sentence a relative clause like this:
   
   
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
-  > Eurytion, who's brothers were centaurs, expected to marry Deianira.
+  > Eurytion, who's❌ **"who's" == "who is"** brothers were centaurs, expected to marry Deianira.
   
   1. cuius  
   1. Eurytion--Masculine, singular
@@ -110,7 +113,7 @@ you could make the second sentence a relative clause like this:
   
   
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
-  > Nessus, who Herculkes killed, tried to rape Deianira.
+  > Nessus, who Hercules killed, tried to rape Deianira.
   
   1. quem
   1. Nessus--Masculine, singular  
@@ -128,16 +131,16 @@ you could make the second sentence a relative clause like this:
   > In Egypt, Hercules killed the priest Busiris who regularly sacrificed foreigners.
   
   
-  1. quem
+  1. quem❌
   1. Busiris--Masculine, singular
-  1. Accusative case because it is the direct object.
+  1. Accusative case because it is the direct object.❌
   
   
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
   > Prometheus’ heart was devoured by an eagle that Hercules shot dead with his arrows.
   
-  1. quem
-  1. the egale--Masculine, singular 
+  1. quem❌
+  1. the egale--Masculine❌, singular 
   1. Accusative case because it is the direct object.
   
   
@@ -160,9 +163,9 @@ you could make the second sentence a relative clause like this:
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
   > Hercules, who Juno drove threw Hercules into a fit of madness, killed his own wife Megara.
   
-  1. qui
+  1. qui❌
   1. Hercules--Masculine, singular
-  1. Nominative case because Hercules is the subject.
+  1. Nominative case because Hercules is the subject.❌
 
 Latin relative clauses
 
