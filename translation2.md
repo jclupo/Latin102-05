@@ -21,7 +21,8 @@ non poterat transire,
 >> qui filius Ixionis et Nubis erat, 
 > auxilium rogavit.
 
-Hic Deianiram sublatam in flumine ipso uiolare uoluit.
+Hic Deianiram 
+sublatam in flumine ipso uiolare uoluit.
 
 huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
 
@@ -57,5 +58,8 @@ B. Grammatical questions
     -
     
 C. Translation 
+
+Deianira, wife of Hercules, the large river, whose name was Evenus, was not able to be crossed, and Nessus the centaur, who was the son of Ixion and Nubes, asked for help. 
+By lifting her in this river, he wanted to violate Deianira.
 
 That man, as he was dying, when he knew that the arrows of the lerneaen Hydra, soaked in poision, had great strength, he gave his own blood that had been taken out to Deianira, and he said that is was a love potion. 
