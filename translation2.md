@@ -44,8 +44,8 @@ B. Grammatical questions
     - transire is present infinitive form. 
     
 1. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
-- sublatam is in the accusative, feminine, singular, perfect active form. 
-- urn:cite2:hmt:ls.markdown:n26049
+    - sublatam is in the accusative, feminine, singular, perfect active form. 
+    - urn:cite2:hmt:ls.markdown:n26049
 
 1. Identify the form of sagittis. Why does Hyginus use this case?
     - sagittis is in the ablative form. Hyginus uses this case to show the object of prepostion. 
