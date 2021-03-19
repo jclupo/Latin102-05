@@ -63,7 +63,7 @@ B. Grammatical questions
     - exceptum is in the accusative form. 
 
 1. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
-    -
+    - Moriens
     
 C. Translation 
 
