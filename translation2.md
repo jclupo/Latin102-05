@@ -14,19 +14,25 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 > Deianira, 
 >> uxor Herculis, 
->>>> flumen magnum, 
->>>> cui nomen Evenus erat,
-non poterat transire, 
->> et centaurum Nessum, 
->> qui filius Ixionis et Nubis erat, 
-> auxilium rogavit.
+> flumen magnum, 
+>> cui nomen Evenus *erat*,
+> non *poterat* transire, 
+> et centaurum Nessum, 
+>> qui filius Ixionis et Nubis *erat*, 
+> auxilium *rogavit*.
 
-Hic Deianiram 
-sublatam in flumine ipso uiolare uoluit.
+> Hic Deianiram 
+>> sublatam in flumine ipso 
+> uiolare *uoluit*.
 
-huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
+> huc Hercules cum *interuenisset* 
+> et Deianira cum fidem eius *implorasset*,
+>> Nessum sagittis *confixit*.
 
-ille moriens, cum sciret sagittas Hydrae Lernaeae felle tinctas magnam vim habere, sanguinem suum exceptum Deianirae dedit et id philtrum esse dixit.
+> ille *moriens*, 
+>>> cum sciret sagittas Hydrae Lernaeae felle *tinctas* magnam vim habere,
+> sanguinem suum exceptum Deianirae *dedit* 
+>> et id philtrum esse *dixit*.
 
 
 B. Grammatical questions
@@ -38,15 +44,17 @@ B. Grammatical questions
     - transire is present infinitive form. 
     
 1. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
-    -
+- sublatam is in the accusative, feminine, singular, perfect active form. 
+- urn:cite2:hmt:ls.markdown:n26049
 
 1. Identify the form of sagittis. Why does Hyginus use this case?
-    - 
+    - sagittis is in the ablative form. Hyginus uses this case to show the object of prepostion. 
 
 1. Identify the form of moriens.
     - moriens is in the present active participle form.
      
 1. Identify felle. Why does Hyginus use this case?
+    - Felle is in the ablative case. Hyginus uses this case to show the object of preposition.  
 
 1. Identify the form of tinctas.
     - tinctas is in the ablative, feminine, plural participle form. 
@@ -60,6 +68,6 @@ B. Grammatical questions
 C. Translation 
 
 Deianira, wife of Hercules, the large river, whose name was Evenus, was not able to be crossed, and Nessus the centaur, who was the son of Ixion and Nubes, asked for help. 
-By lifting her in this river, he wanted to violate Deianira.
-
-That man, as he was dying, when he knew that the arrows of the lerneaen Hydra, soaked in poision, had great strength, he gave his own blood that had been taken out to Deianira, and he said that is was a love potion. 
+he carried her across the river himself, he wanted to violate Deianira.
+When Hercules intervened and when Deianira begged his faith he pierced Nessus with arrows.
+That man, as he was dying, gave his own blood that had been taken out to Deianira, and he said that is was a love potion when he knew that the arrows of the lerneaen Hydra, soaked in poision, had great strength. 
