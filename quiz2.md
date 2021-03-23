@@ -106,7 +106,8 @@ you could make the second sentence a relative clause like this:
   
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
   > Eurytion, who's❌ **"who's" == "who is"** brothers were centaurs, expected to marry Deianira.
-    - *Revision* whose
+   
+   - *Revision* whose
   
   1. cuius  
   1. Eurytion--Masculine, singular
@@ -132,16 +133,16 @@ you could make the second sentence a relative clause like this:
   > In Egypt, Hercules killed the priest Busiris who regularly sacrificed foreigners.
   
   
-  1. quem❌
+  1. quem❌ *Revision*- qui 
   1. Busiris--Masculine, singular
-  1. Accusative case because it is the direct object.❌
+  1. Accusative case because it is the direct object.❌ *Revision*- Nominative case because it is the subject 
   
   
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
   > Prometheus’ heart was devoured by an eagle that Hercules shot dead with his arrows.
   
-  1. quem❌
-  1. the egale--Masculine❌, singular 
+  1. quem❌ *Revision*- quam
+  1. the egale--Masculine❌, singular *Revision*- feminine 
   1. Accusative case because it is the direct object.
   
   
@@ -162,11 +163,11 @@ you could make the second sentence a relative clause like this:
   
   
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
-  > Hercules, who Juno drove threw Hercules into a fit of madness, killed his own wife Megara.
+  > Hercules, who Juno drove threw into a fit of madness, killed his own wife Megara.
   
-  1. qui❌
+  1. qui❌ *Revision*- quem
   1. Hercules--Masculine, singular
-  1. Nominative case because Hercules is the subject.❌
+  1. Nominative case because Hercules is the subject.❌ *Revision*- Accusative case because Hercules is the direct object. 
 
 Latin relative clauses
 
