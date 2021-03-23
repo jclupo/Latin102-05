@@ -92,8 +92,8 @@ you could make the second sentence a relative clause like this:
   > The brothers, with whom Eurytion came to the wedding, were violent centaurs.
   
   1. quibus   
-  1.  The borthers--Masculine, plural 
-  1.  Ablative case because it is the object of preposition
+  1. The borthers--Masculine, plural 
+  1. Ablative case because it is the object of preposition
   
   
 2. Dexamenus was afraid of Eurytion. Deianira was promised in marriage to Eurytion.
@@ -106,6 +106,7 @@ you could make the second sentence a relative clause like this:
   
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
   > Eurytion, who's❌ **"who's" == "who is"** brothers were centaurs, expected to marry Deianira.
+    - *Revision* whose
   
   1. cuius  
   1. Eurytion--Masculine, singular
