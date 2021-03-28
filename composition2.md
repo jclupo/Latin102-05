@@ -25,5 +25,6 @@ In addition to your required vocabulary, consult the vocabulary notes from previ
 
 Translation: 
 
-Cum Deianira, Oeneus et uxorem 	Herculis, +++++ viderit, Iolen adductum esse, coepit machinari, ne privaretur conjugio.  
+Cum Deianira, Oeneus et uxorem 	Herculis, pulchram, iuvenem, puellam viderit, Iolen adductum esse, coepit machinari, ne privaretur conjugio. 
+
 
