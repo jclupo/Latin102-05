@@ -25,7 +25,10 @@ In addition to your required vocabulary, consult the vocabulary notes from previ
 
 Translation: 
 
-Cum Deianira, Oeneus et uxorem 	Herculis, pulchram, iuvenem, puellam viderit, Iolen adductum esse, coepit machinari, ne privaretur conjugio. 
-Deianira eius servum apportare Herculem vestem misit, in sanguine centauri Nessus tinxit, quem philtrum cogitavit.
+Deianira Oenei filia Herculis uxor cum vidit, pulchram, iuvenem, puellam, Iolen adductum esse, coepit machinari, ne privaretur conjugio. 
+Deianira eius servum apportare Herculem vestem misit, in sanguine centauri Nessus tinctam, quem philtrum cogitavit.
+Hercules induerat vestem et statim flagrare coepit.
+Hercules servum jaculatus est, quem Deianiriam revocaret vestem miserat. 
+Est aiebat ille Hercules immortalitatem ascendit.
 
 
