@@ -9,57 +9,94 @@ for a two-ending adjective, masculine/feminine nominative singular, neuter nomin
 for a three-ending adjective, masculine, feminine and neuter nominative singular
 Noun-adjective pairs (in various cases):
 
-uno die
-totum stercus
-ceruum ferocem
-tantam vim
-sagittas suas
-cornibus aureis
-carne humana
-draconem immanem
-mala aurea
+1. uno die
+  - unus, una, unum
+  - dies, diei (m.)
+1. totum stercus
+  - totus, tota, totum
+  - stercus, stercoris (m.)
+1. ceruum ferocem
+  - cernuus, cernua, cernuum---------------
+  - Ferox, Ferocis
+1. tantam vim
+  - tantus, tanta, tantum
+  - vis, vis (f.)
+1. sagittas suas 
+  - sagitta, sagittae (f.)
+  - suus, sua, suum
+1. cornibus aureis
+  - cornu, cornus (n.)
+  - aureus, aurea, aureum
+1. carne humana
+  - caro, carnis (f.)
+  - humanus, humana, humanum
+1. draconem immanem
+  - draco, draconis (m.)
+  - immanis, immane immanior
+15. mala aurea
+  - malum, mali (n.)
+  - aureus, aurea, aureum
 
 Dictionary skills, 2: verb forms
 
 For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
 
-transierat
-afflabat
-moriebatur
-exinteravit
-effugiebat
-adduxit
-iaculabantur
-vescebantur
-detraxit
-solitus erat
-attulit
+1. transierat
+  -	transeo, transire, transivi, transitus
+1. afflabat
+  - afflo, afflare, afflavi, afflatus
+1. moriebatur
+  - morior, mori, mortuus sum
+1. exinteravit
+  -
+1. effugiebat
+  - effugio, effugere, effugi, effugitus
+1. adduxit
+  - adduco, adducere, adduxi, adductus
+1. iaculabantur
+  - jaculor, jaculari, jaculatus sum
+1. vescebantur
+  - vescor, vesci, -
+1. detraxit
+  - detraho, detrahere, detraxi, detractus
+1. solitus erat
+  - soleo, solere, solitus sum
+1. attulit
+  - affero, afferre, attuli, allatus
+  
 Dictionary skills, 3: proper nouns and adjectives
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
 Luna (nominative)
+  - luna, lunae (f.)
 Minerva (nominative)
+  - Minerva, Minervae (f.)
 in Phrygia
+  - Phrygia, Phrygiae F
 ex Creta
+  - Creta, Cretae F
+  
 Thraciae rex
 cum Abdero
 Eurystheo regi
+
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 Leonem Nemeum
 Hydram Lernaeam
 aprum Erymanthium
 aves Stymphalides
-Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
+Hippolyten Amazonam 
+(NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
+
 Comparative and superlative forms
 Translate the highlighted phrases in the following English sentences into Latin. Use these vocabulary items:
 
 two fourth-declension nouns:
-
 afflatus, afflatūs, (m.), “breathing, breath, blowing”
 cruciatus, cruciatūs, (m.), “torture, torment”
-a third-declension noun:
 
+a third-declension noun:
 pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
