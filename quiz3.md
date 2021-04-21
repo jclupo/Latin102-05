@@ -113,7 +113,7 @@ pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
 1. The Hydra killed passers by *with a great blowing* of his poisonous breath.
-        -
+        - 
 1. The Hydra killed passers by *with a greater blowing* of his poisonous breath.
         - maiore
 The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
