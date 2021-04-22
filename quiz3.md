@@ -16,7 +16,7 @@ Noun-adjective pairs (in various cases):
     - totus, tota, totum
     - stercus, stercoris (m.)
 1. ceruum ferocem
-    - cernuus, cernua, cernuum---------------
+    - cernuus, cernua, cernuum
     - Ferox, Ferocis
 1. tantam vim
     - tantus, tanta, tantum
@@ -42,13 +42,13 @@ Dictionary skills, 2: verb forms
 For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
 
 1. transierat
-    -	transeo, transire, transivi, transitus
+    - transeo, transire, transivi, transitus
 1. afflabat
     - afflo, afflare, afflavi, afflatus
 1. moriebatur
     - morior, mori, mortuus sum
 1. exinteravit
-    -
+    - exintero, exinteras, exinteravi, exinteratum
 1. effugiebat
     - effugio, effugere, effugi, effugitus
 1. adduxit
@@ -82,21 +82,21 @@ cum Abdero
     - Abderum, Abderi (f.)
     - cum 
 Eurystheo regi
-    - 
+    - Eurystheus, Eurysthei (m.)
     - rex, regis (m.)
 
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 1. Leonem Nemeum
-    - nemēum, nemēī
+    - nemeum, nemei 
 1. Hydram Lernaeam
-    - 
+    - lernaea, lernaeae 
 1. aprum Erymanthium
     - erymanthius, erymanthia, erymanthium
 1. aves Stymphalides
-    -
+    - Stymphalids , Stymphalidis
 1. Hippolyten Amazonam
-    -
+    - Amazona, Amazonae
 
 
 (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
@@ -113,21 +113,20 @@ pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
 1. The Hydra killed passers by *with a great blowing* of his poisonous breath.
-        - magno afflatus
+        - magno afflatu
 1. The Hydra killed passers by *with a greater blowing* of his poisonous breath.
-        - maiore afflatus
+        - maiore afflatu
 1. The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
-        - maximo afflatus
+        - maximo afflatu
 1. The victims died *in great torment*.
-        - in magno cruciatus
+        - in magno cruciatum
 1. The victims died *in greater torment*.
-        - in maiore cruciatus
+        - in maiore cruciatum
 1. The victims died *in the greatest torment*.
-        - in maximo cruciatus
+        - in maximo cruciatum
 1. Hercules cleaned *a great part of the stables*.
-        - parte magnae
+        - partem magnae stabulorum
 1. Hercules cleaned *a greater part of the stables*.
-        - parte maioris
+        - partem maioris stabulorum
 1. Hercules cleaned *the greatest part of the stables*.
-        - parte maximae
-
+        - partem maximae stabulorum
