@@ -7,6 +7,7 @@ for an adjective, two or three forms:
 for a one-ending adjective, masculine nominative singular and masculine genitive singular
 for a two-ending adjective, masculine/feminine nominative singular, neuter nominative singular
 for a three-ending adjective, masculine, feminine and neuter nominative singular
+
 Noun-adjective pairs (in various cases):
 
 1. uno die
