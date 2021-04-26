@@ -31,11 +31,11 @@ B. Grammatical questions
   1. Identify the form of the adjective maiorem (gender, case, number, degree).
       - maiorem is feminine, accusative, singular, and in the comparitive degree. 
   1. Explain the construction of the verbal unit flumine admisso.
-      -
+      - It is an Ablative Absolute construction. 
   1. What are the gender, number, case, and antecedent of qui?
       - qui is masculine, plural, accustive, and its antecedent is equos.
   1. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-      -
+      - The 3rd person, plural, perfect, passive, indicative verb form has to be undertood in the clause. 
 
 C. Literary commentary
 
