@@ -8,6 +8,15 @@ A. Grammatical analysis
 
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
+> Augeae regis stercus bobile uno die *purgavit*, 
+>> maiorem partem Iove adiutore; 
+> flumine admisso totum stercus abluit.
+
+> taurum 
+>> cum quo Pasiphae concubuit 
+>> ex Creta insula Mycenis 
+> vivum adduxit.
+
 B. Grammatical questions
 
   1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
