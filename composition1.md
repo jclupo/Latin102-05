@@ -2,6 +2,7 @@
 
 Background story
 
+
 (Based on chapter 35 of Hyginus)
 
 Heracles travelled to the city of Oechalia in Aetolia, and asked the king, Eurytus, for permission to marry his daughter, Iole. 
