@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Dictionary skills, 1: noun-adjective pairs
 
 For each word in the following phrases, list the forms the dictionary entry gives you for the word:
@@ -17,7 +19,7 @@ Noun-adjective pairs (in various cases):
     - totus, tota, totum
     - stercus, stercoris (m.)
 1. ceruum ferocem
-    - cernuus, cernua, cernuum
+    - cernuus, cernua, cernuum❌
     - Ferox, Ferocis
 1. tantam vim
     - tantus, tanta, tantum
@@ -47,15 +49,15 @@ For the following verbs in various forms, list the four principal parts you woul
 1. afflabat
     - afflo, afflare, afflavi, afflatus
 1. moriebatur
-    - morior, mori, mortuus sum
+    - morior, mori, -, mortuus sum
 1. exinteravit
-    - exintero, exinteras, exinteravi, exinteratum
+    - exintero, exinteras❌, exinteravi, exinteratum
 1. effugiebat
     - effugio, effugere, effugi, effugitus
 1. adduxit
     - adduco, adducere, adduxi, adductus
 1. iaculabantur
-    - jaculor, jaculari, jaculatus sum
+    - jaculor, jaculari, -, jaculatus sum
 1. vescebantur
     - vescor, vesci, -
 1. detraxit
@@ -88,8 +90,11 @@ Eurystheo regi
 
 Compose a dictionary form for the proper adjectives in the following phrases:
 
+**These are adjectives: you're using noun forms.**
+
+**E.g., for no. 1, you want *Nemeus, Nemea, Nemeum*.**
 1. Leonem Nemeum
-    - nemeum, nemei 
+    - nemeum, nemei ❌ 
 1. Hydram Lernaeam
     - lernaea, lernaeae 
 1. aprum Erymanthium
@@ -120,14 +125,14 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
 1. The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
         - maximo afflatu
 1. The victims died *in great torment*.
-        - in magno cruciatum
+        - in magno cruciatum❌
 1. The victims died *in greater torment*.
-        - in maiore cruciatum
+        - in maiore cruciatum❌
 1. The victims died *in the greatest torment*.
-        - in maximo cruciatum
+        - in maximo cruciatum❌
 1. Hercules cleaned *a great part of the stables*.
-        - partem magnae stabulorum
+        - partem magnae ❌
 1. Hercules cleaned *a greater part of the stables*.
-        - partem maioris stabulorum
+        - partem maioris ❌
 1. Hercules cleaned *the greatest part of the stables*.
-        - partem maximae stabulorum
+        - partem maximae ❌
