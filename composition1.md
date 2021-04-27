@@ -1,5 +1,5 @@
-**Needs revisions**
-**Very solid first draft!  We'll tidy these revisions up easily.**
+**Full credit**
+
 Background story
 
 (Based on chapter 35 of Hyginus)
