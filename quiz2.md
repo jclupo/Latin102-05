@@ -1,5 +1,4 @@
-**Needs minor revisions**
-**Very nice first submission!**
+**Full credit**
 
 Verb synopses
 
