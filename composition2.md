@@ -1,3 +1,4 @@
+**Needs revisions**
 Background:
 
 You already know the background to this story: Deianira was tricked by Nessus into believing that the vial of poison he gave her was actually a love potion.
@@ -26,9 +27,11 @@ In addition to your required vocabulary, consult the vocabulary notes from previ
 Translation: 
 
 Deianira Oenei filia Herculis uxor cum vidit, pulchram, iuvenem, puellam, Iolen adductum esse, coepit machinari, ne privaretur conjugio. 
-Deianira eius servum apportare Herculem vestem misit, in sanguine centauri Nessus tinctam, quem philtrum cogitavit.
+Deianira eius❌ servum apportare❌**We need a purpose construction** Herculem vestem misit, in❌ sanguine centauri Nessus tinctam, quem philtrum cogitavit.
 Hercules induerat vestem et statim flagrare coepit.
-Hercules servum jaculatus est, quem Deianiriam revocaret vestem miserat. 
-Est aiebat ille Hercules immortalitatem ascendit.
+Hercules servum jaculatus est❌, quem Deianiriam revocaret vestem miserat.❌ **Again need a purpose construction** 
+Est aiebat❌ ille Hercules immortalitatem ascendit.
+
+**Final sentence?**
 
 
