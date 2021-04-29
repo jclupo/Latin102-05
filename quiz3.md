@@ -20,6 +20,7 @@ Noun-adjective pairs (in various cases):
     - stercus, stercoris (m.)
 1. ceruum ferocem
     - cernuus, cernua, cernuum❌
+    - *revision* cervos, cervi (m.)
     - Ferox, Ferocis
 1. tantam vim
     - tantus, tanta, tantum
@@ -52,6 +53,7 @@ For the following verbs in various forms, list the four principal parts you woul
     - morior, mori, -, mortuus sum
 1. exinteravit
     - exintero, exinteras❌, exinteravi, exinteratum
+    - *revision* 
 1. effugiebat
     - effugio, effugere, effugi, effugitus
 1. adduxit
@@ -95,6 +97,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 **E.g., for no. 1, you want *Nemeus, Nemea, Nemeum*.**
 1. Leonem Nemeum
     - nemeum, nemei ❌ 
+    - *revision* 
 1. Hydram Lernaeam
     - lernaea, lernaeae 
 1. aprum Erymanthium
@@ -126,13 +129,19 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
         - maximo afflatu
 1. The victims died *in great torment*.
         - in magno cruciatum❌
+        - *revision*
 1. The victims died *in greater torment*.
         - in maiore cruciatum❌
+        - *revision*
 1. The victims died *in the greatest torment*.
         - in maximo cruciatum❌
+        - *revision*
 1. Hercules cleaned *a great part of the stables*.
         - partem magnae ❌
+        - *revision*
 1. Hercules cleaned *a greater part of the stables*.
         - partem maioris ❌
+        - *revision*
 1. Hercules cleaned *the greatest part of the stables*.
         - partem maximae ❌
+        - *revision* 
