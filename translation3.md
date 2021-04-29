@@ -43,7 +43,13 @@ C. Literary commentary
 
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
+  - Hyginus uses "admisso" and "abluit", to vividly depicts his power to let in a great river that is able to was away all the dung. It indicates Hercules' power and paints a clear narrative. In additon, Hyginus' choice to first protray the King of Thrace and his horses so terribly, then follow with Hercules had killed them, could be viewed as a dilberate choice to peak the reader's interest, then put them at ease knowing thier dead. It is effective in creating a compelling piece of writing for the reader. 
+
 D. Translation 
 
-7 He cleaned the stall of 
+7 He cleaned in one day the dung stall of King Augeas, the greater part with Juno as assistant; By letting the river in, he washed all the dung. 
+
+8 He brought the bull alive, with whom Pasiphae had sex, from the island of Crete to Mycenes.
+
+9 Diomedes, King of Thrace, and his four horses, who ate human flesh, he killed along with Abdero the slave. ALso, the names of the horses were Podargus, Lampon, Xanthus, and Dinus.  
 
