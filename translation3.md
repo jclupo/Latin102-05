@@ -45,4 +45,5 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 D. Translation 
 
+7 He cleaned the stall of 
 
