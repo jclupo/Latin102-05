@@ -53,7 +53,7 @@ For the following verbs in various forms, list the four principal parts you woul
     - morior, mori, -, mortuus sum
 1. exinteravit
     - exintero, exinteras❌, exinteravi, exinteratum
-    - *revision* 
+    - *revision*  exintereo, exinterire, exinterivi, exinteritus
 1. effugiebat
     - effugio, effugere, effugi, effugitus
 1. adduxit
@@ -97,7 +97,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 **E.g., for no. 1, you want *Nemeus, Nemea, Nemeum*.**
 1. Leonem Nemeum
     - nemeum, nemei ❌ 
-    - *revision* 
+    - *revision* Nemaeus, Nemaea, Nemeum
 1. Hydram Lernaeam
     - lernaea, lernaeae 
 1. aprum Erymanthium
@@ -129,19 +129,19 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
         - maximo afflatu
 1. The victims died *in great torment*.
         - in magno cruciatum❌
-        - *revision*
+        - *revision* in magno cruciatu
 1. The victims died *in greater torment*.
         - in maiore cruciatum❌
-        - *revision*
+        - *revision* in maiori cruciatu
 1. The victims died *in the greatest torment*.
         - in maximo cruciatum❌
-        - *revision*
+        - *revision* in maximo cruciatu
 1. Hercules cleaned *a great part of the stables*.
         - partem magnae ❌
-        - *revision*
+        - *revision* magno partem 
 1. Hercules cleaned *a greater part of the stables*.
         - partem maioris ❌
-        - *revision*
+        - *revision* maiori partem
 1. Hercules cleaned *the greatest part of the stables*.
-        - partem maximae ❌
-        - *revision* 
+        - partem maximae ❌ 
+        - *revision* maximo partem
