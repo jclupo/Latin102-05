@@ -75,7 +75,7 @@ B. Grammatical questions
 
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
     - The antecedent of cui is flumen. It is in the dative, singlar form of Qui. It is in the dative case becasue it is the indirect object❌, and serves as a relative pronoun in a relative clause. 
-    - *revision* It is in the dative case becuse it is the antecedent of the river, which the indirect object of the sentence.  
+    - *revision* It is in the dative case becuse it describes the object of pocession meaning the name of the river. 
 
 1. Identify the form of transire. Explain why you placed it in the clause you chose.
     - transire is present infinitive form. Because it is an infinitive verb it is its own verbal idea.❌
@@ -92,7 +92,7 @@ B. Grammatical questions
 
 1. Identify the form of moriens.
     - moriens is in the present active participle form.❌ **Gender, case?**
-    -  *revision* moriens is in the masc, fem, neuter form and in the nominative case. 
+    -  *revision* moriens is in the masc and in the nominative case. 
      
 1. Identify felle. Why does Hyginus use this case?
     - Felle is in the ablative case. Hyginus uses this case to show the object of preposition. ❌ 
@@ -104,7 +104,7 @@ B. Grammatical questions
 
 1. Identify the form of exceptum.
     - exceptum is in the accusative form. ❌
-    - *revision* it is in the nominative, singular, nueter form. 
+    - *revision* perfect passive form
     
 1. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
     - Moriens 
