@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 Passage to analyze
 
