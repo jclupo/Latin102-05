@@ -53,7 +53,7 @@ For the following verbs in various forms, list the four principal parts you woul
     - morior, mori, -, mortuus sum
 1. exinteravit
     - exintero, exinteras❌, exinteravi, exinteratum
-    - *revision*  exintereo, exinterire, exinterivi, exinteritus
+    - *revision*   exinterare
 1. effugiebat
     - effugio, effugere, effugi, effugitus
 1. adduxit
@@ -132,16 +132,16 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
         - *revision* in magno cruciatu
 1. The victims died *in greater torment*.
         - in maiore cruciatum❌
-        - *revision* in maiori cruciatu
+        - *revision* in maiore cruciatu
 1. The victims died *in the greatest torment*.
         - in maximo cruciatum❌
         - *revision* in maximo cruciatu
 1. Hercules cleaned *a great part of the stables*.
         - partem magnae ❌
-        - *revision* magno partem 
+        - *revision* magnam partem 
 1. Hercules cleaned *a greater part of the stables*.
         - partem maioris ❌
-        - *revision* maiori partem
+        - *revision* maiorem partem
 1. Hercules cleaned *the greatest part of the stables*.
         - partem maximae ❌ 
-        - *revision* maximo partem
+        - *revision* maximam partem
