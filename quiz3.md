@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 Dictionary skills, 1: noun-adjective pairs
 
@@ -20,7 +20,7 @@ Noun-adjective pairs (in various cases):
     - stercus, stercoris (m.)
 1. ceruum ferocem
     - cernuus, cernua, cernuum❌
-    - *revision* cervos, cervi (m.)
+    - *revision* cervus, cervi (m.)
     - Ferox, Ferocis
 1. tantam vim
     - tantus, tanta, tantum
