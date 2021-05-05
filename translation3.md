@@ -11,18 +11,18 @@ A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
 > Augeae regis stercus bobile uno die *purgavit*, 
->> maiorem partem Iove adiutore; 
-> flumine admisso totum stercus abluit.
+> maiorem partem Iove adiutore; 
+>> flumine admisso 
+> totum stercus *abluit*.
 
 > taurum 
->> cum quo Pasiphae concubuit 
->> ex Creta insula Mycenis 
-> vivum adduxit.
+>> cum quo Pasiphae *concubuit* 
+> ex Creta insula Mycenis vivum *adduxit*.
 
 > Diomedem Thraciae regem et equos quattuor eius, 
->> qui carne humana vescebantur, 
->>> cum Abdero famulo interfecit; 
->equorum autem nomina Podargus Lampon Xanthus Dinus.
+>> qui carne humana *vescebantur*, 
+> cum Abdero famulo *interfecit*; 
+> equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 B. Grammatical questions
 
@@ -31,11 +31,11 @@ B. Grammatical questions
   1. What case is stercus, and why is it in that case?
       - stercus is in the accusative case because it is the direct object of the sentence. 
   1. Identify the form of the adjective maiorem (gender, case, number, degree).
-      - maiorem is feminine, accusative, singular, and in the comparitive degree. 
+      - maiorem is feminine, accuative, singular, and in the comparitive degree. 
   1. Explain the construction of the verbal unit flumine admisso.
       - It is an Ablative Absolute construction. 
   1. What are the gender, number, case, and antecedent of qui?
-      - qui is masculine, plural, accustive, and its antecedent is equos.
+      - qui is masculine, plural, nominative, and its antecedent is equos.
   1. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
       - The 3rd person, plural, perfect, passive, indicative verb form has to be undertood in the clause. 
 
@@ -47,9 +47,9 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 D. Translation 
 
-7 He cleaned in one day the dung stall of King Augeas, the greater part with Juno as assistant; By letting the river in, he washed all the dung. 
+7 He cleaned the dung from stall of King Augeas in one day, the greater part while Juppiter was helping; By letting the river in, he washed all the dung. 
 
-8 He brought the bull alive, with whom Pasiphae had sex, from the island of Crete to Mycenes.
+8 He brought the bull back alive, with whom Pasiphae had sex, from the island of Crete to Mycenes.
 
-9 Diomedes, King of Thrace, and his four horses, who ate human flesh, he killed along with Abdero the slave. ALso, the names of the horses were Podargus, Lampon, Xanthus, and Dinus.  
+9 He killed King Diomedes of Thrace, and his four horses, who used to feed on human flesh, along with Abdero the slave. Also, the names of the horses were Podargus, Lampon, Xanthus, and Dinus.  
 
