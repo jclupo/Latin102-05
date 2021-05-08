@@ -1,3 +1,5 @@
+**Full credit**
+
 Hyginus, chapter 30, sections 7-9.
 
 7 Augeae regis stercus bobile uno die purgavit, maiorem partem Iove adiutore; flumine admisso totum stercus abluit.
