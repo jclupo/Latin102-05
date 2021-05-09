@@ -27,10 +27,17 @@ In addition to your required vocabulary, consult the vocabulary notes from previ
 Translation: 
 
 Deianira Oenei filia Herculis uxor cum vidit, pulchram, iuvenem, puellam, Iolen adductum esse, coepit machinari, ne privaretur conjugio. 
+
 Deianira eius❌ servum apportare❌**We need a purpose construction** Herculem vestem misit, in❌ sanguine centauri Nessus tinctam, quem philtrum cogitavit.
+*Revision* Deianira famulum misit ut Herculi vesem ferret, sanguine centauri Nessus tinctam, quem philtrum cogitavit.
+
 Hercules induerat vestem et statim flagrare coepit.
+
 Hercules servum jaculatus est❌, quem Deianiriam revocaret vestem miserat.❌ **Again need a purpose construction** 
+*Revision* Hercules famulum jaculatus sit, quem Deianira misit, ut vestem referret, in mare`. 
+
 Est aiebat❌ ille Hercules immortalitatem ascendit.
+*Revision* id dicitur ille Hercules immortalitatem ascendit, sed Deianira se interfecit ob hoc.
 
 **Final sentence?**
 
