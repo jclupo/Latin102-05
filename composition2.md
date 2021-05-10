@@ -34,7 +34,7 @@ Deianira eius❌ servum apportare❌**We need a purpose construction** Herculem 
 Hercules induerat vestem et statim flagrare coepit.
 
 Hercules servum jaculatus est❌, quem Deianiriam revocaret vestem miserat.❌ **Again need a purpose construction** 
-*Revision* Hercules famulum jaculatus sit, quem Deianira misit, ut vestem referret, in mare`. 
+*Revision* Hercules famulum jaculatus sit, quem Deianira misit, ut vestem revocaret, in mare`. 
 
 Est aiebat❌ ille Hercules immortalitatem ascendit.
 *Revision* id dicitur ille Hercules immortalitatem ascendit, sed Deianira se interfecit ob hoc.
